@@ -11,8 +11,8 @@ public class Main {
 
         // Sample Variables
         String reportID = "55106";
-        String sourceUniverseID = "54780"; // Only change dataproviders based off of this universe
-        String destUniverseID = "54756";  // Change those dataproviders to use this Universe
+        String sourceUniverseID = "54756"; // Only change dataproviders based off of this universe
+        String destUniverseID = "54780";  // Change those dataproviders to use this Universe
 
         // Restful URL's
         final String serverPort = "localhost:6427";
